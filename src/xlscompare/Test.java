@@ -31,7 +31,7 @@ public class Test {
        
        
        Compare c=new Compare();
-       c.compareResult();//for Testing application
+       c.compareResult();//for Testing application Tested and added 1.0
        
     }
 }
